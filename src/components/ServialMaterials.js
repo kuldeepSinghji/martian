@@ -4,7 +4,7 @@ import FoodContext from '../context/FoodContext'
 const ServialMaterials = () => {
   const {servival} = useContext(FoodContext);
   return (
-    <>  
+    <>   
     {servival.length > 0 && <div>
         <h1>Food Details to Survive On the Mars....</h1>
       <table border={2}>
