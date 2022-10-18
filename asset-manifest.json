@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/martian/static/css/main.028856ea.css",
+    "main.js": "/martian/static/js/main.ed601ab8.js",
+    "static/media/mars.jpg": "/martian/static/media/mars.da5f5d57c50031511422.jpg",
+    "index.html": "/martian/index.html",
+    "main.028856ea.css.map": "/martian/static/css/main.028856ea.css.map",
+    "main.ed601ab8.js.map": "/martian/static/js/main.ed601ab8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.028856ea.css",
+    "static/js/main.ed601ab8.js"
+  ]
+}
